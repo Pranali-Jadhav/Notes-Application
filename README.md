@@ -1,5 +1,5 @@
 # Notes-Application
-Its an educational app for making essential notes.
+Its an educational app for taking essential notes.
 
 <b>Problem Statement:</b>
 
@@ -44,7 +44,7 @@ Multiple notes can be added at the same time. It maintains the list of various n
 
 It is used to handle data in a lifecycle-aware fashion. Keeping the data displayed in a UI in sync with the data stored in a database. Here the LiveData is useful in deleting or updating the note.
 
-	Room Database: 
+ Room Database: 
 
 It is used as a local data storage in android applications. The Room Database class uses the DAO to issue queries to the SQL database. In this app, the notes added and the updation done are stored.
 
